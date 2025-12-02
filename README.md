@@ -100,7 +100,7 @@ Passo a Passo
 
 Clone o Repositório:
 
-git clone [SEU LINK DO REPOSITÓRIO]
+git clone https://github.com/daniloscampelo/Batalha-naval---Jo-o-Victor-Tinoco
 cd NomeDaPasta
 
 
